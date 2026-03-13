@@ -1,0 +1,8 @@
+Ex1. 4/5 
+La gràcia seria que quan facis mostrar_playlist() utilitzis el mètode song.info() que havies creat anteriorment.
+Hauries d'haver afegit les cançons, mostrar la durada total, mostrar la canço mes llarga.
+
+Ex2. 4,75/5
+Et faltaria pujar el nivell del guanyador.
+
+Nota final: 8,75/10
